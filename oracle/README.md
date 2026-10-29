@@ -105,11 +105,11 @@ To monitor this closely, we should track whether AI revenue growth and new data 
 
 | Metric                   | FY26   | FY27   | FY28   | FY29 | FY30 |
 | :----------------------- | :----- | :----- | :----- | :--- | :--- |
-| **Revenue (Billions)**   | 67.3   | 90     | 130    | 156  | 186  |
-| **AI Infra revenue**     | 18.1   | 39     | 77     | 81   | 85   |
-| **Op Margin**            | 31%    | 28%    | 25%    | 10%  | 25%  |
-| **Operating Income**     | 20.6   | 22.5   | 29.9   | 13.4 | 34.5 |
-| **Op Income \*(1-0.21)** | —      | 17.77  | 23.6   | 10.5 | 27.2 |
+| **Revenue (Billions)**   | 67.3   | 90     | 130    | 185  | 225  |
+| **AI Infra revenue**     | 18.1   | 39     | 77     | 129  | 166  |
+| **Op Margin**            | 31%    | 30%    | 28%    | 28%  | 30%  |
+| **Operating Income**     | 20.6   | 27     | 36.4   | 51.8 | 67.5 |
+| **Op Income \*(1-0.21)** | —      | 21.33  | 28.7   | 40.9 | 53.3 |
 | **Capex**                | 47.7   | 70     | 86     | —    | —    |
 | **Dep**                  | 7.6    | 14.28  | 32.34  | —    | —    |
 | **Unlevered FCF**        | —      | \-38   | 15     | —    | —    |
