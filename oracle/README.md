@@ -1,110 +1,141 @@
-# Oracle Corporation (ORCL) - Stock Pitch & Investment Thesis
+# Oracle Stock Pitch
 
-**Ticker:** ORCL  
-**Industry:** Software & Cloud  
-**Market Cap:** $433B  
-**Current Price:** $126  
-**Recommendation:** Buy  
-**Target Price Range:** $156 – $257  
+**Ticker:** ORCL | **Industry:** Software & Cloud | **Market Cap:** $433B | **Current Price:** $126  
+**Recommendation:** Buy | **Target Price:** $156 to $257
 
 ---
 
-## Executive Summary
+## What does Oracle do?
 
-Oracle is undergoing a major structural transformation from a low-growth legacy software business into a core infrastructure provider for high-performance AI workloads. With a total remaining performance obligation (RPO) of $664 billion driven heavily by AI training and inference demand, Oracle Cloud Infrastructure (OCI) represents the company's primary long-term growth driver.
+**1. Cloud Infrastructure (IaaS)**  
+Builds data centres and rents computing capacity to customers.
+- **AI companies:** OpenAI, xAI and Cohere etc. use cloud infrastructure for AI workloads.
+- **Enterprises:** Uber, FedEx and Tiktok etc. use cloud infrastructure for enterprise workloads.
 
----
+**2. Cloud Applications (SaaS)**  
+Sells enterprise software through cloud subscriptions.
+- ERP (finance and accounting), HCM (HR and payroll), SCM (supply chain management) and NetSuite (business management software).
 
-## Business Segments Overview
-
-Oracle operates across three core business pillars:
-
-1. **Cloud Infrastructure (IaaS)**
-   - **Scope:** Builds data centers and rents compute capacity.
-   - **Key Customers:** OpenAI, xAI, Cohere, Uber, FedEx, TikTok.
-   - **Financial Profile:** High growth, 10%–30% margins, high capex / cash burn, unpredictable AI-driven trajectory.
-2. **Cloud Applications (SaaS)**
-   - **Scope:** Enterprise software subscriptions including ERP, HCM, SCM, and NetSuite.
-   - **Financial Profile:** Steady growth, high margins, positive cash flow.
-3. **Legacy Software & Hardware**
-   - **Scope:** Database software, Java, on-premises licenses, support, and hardware.
-   - **Financial Profile:** Low growth, 40%–80% margins, highly predictable recurring revenue.
-
-### Segment Comparison Matrix
-
-| Business Unit | Growth Profile | Operating Margin | Cash Flow Profile | Revenue Predictability |
-| :--- | :--- | :--- | :--- | :--- |
-| **Oracle Cloud Infrastructure (OCI)** | High Growth | Low (10%–30%) | High Capex / Cash Burn | Unpredictable (AI-dependent) |
-| **Cloud Applications & Legacy Software** | Low Growth | High (40%–80%) | Cash Positive | High (Recurring) |
+**3. Legacy Software**  
+Provides database software, Java, on-premises software licenses, support and maintenance, and hardware.
 
 ---
 
-## Future Outlook & Capex Guidance
+## Future Guidance/Outlook given by Oracle
 
-- **Remaining Performance Obligation (RPO):** $664 Billion (primarily driven by customer demand for AI training and inference).
-- **FY26 Capex (AI Data Centers):** $55.7 Billion.
-- **FY27 Guided Capex:** $95.0 Billion.
+### Future Oracle: 1 Company - 2 Business (FY2026 - FY2030)
+| Oracle Cloud Infrastructure | Oracle Cloud Applications + Oracle Legacy |
+| :--- | :--- |
+| **High Growth:** Driven by AI data center demand. | **Low Growth** |
+| **Low Margin:** 10%-30% | **High Margin:** 40%-80% |
+| **High Capex, Cash Burn:** Huge upfront datacenter/GPU investments. | **Cash Positive** |
+| **Unpredictable Revenue:** Highly AI-dependent growth trajectory. | **Predictable Revenue:** Steady consistent recurring revenue. |
+
+- Current oracle’s remaining performance obligation (Future revenue contracts) is **$664 Billion**, Primarily driven by customer demand for AI Training and AI Inferencing Services (AI usage by real customers).  
+- Oracle FY26 Capex in building new AI data centers = **$55.7 billion**  
+- Oracle FY27 Capex in building new AI data centers = **$95 billion** (Guided)
 
 ---
 
 ## Investment Thesis
 
-### 1. Irreversible AI Adoption
-AI integration across daily workflows—search, software engineering agents, product comparisons, and media creation—continues to expand, driving sustained demand for underlying compute infrastructure.
+Oracle's Cloud Applications and Legacy Software are highly predictable with high-margin and positive cash flows. Oracle's guided annualised growth rate is 4.7%. I assume this outlook remains broadly stable in the near term, while long-term growth gradually converges towards global economic growth (3%).
 
-### 2. Infrastructure Investment vs. AI Revenue Alignment
-To evaluate whether data center investments are backed by real revenue rather than speculative investor capital, key metrics compare AI revenue against cloud infrastructure spend:
+Oracle Cloud Infrastructure (OCI), however, requires much more attention. Given its high capex and high growth. Eventual returns on invested capital in the cloud infrastructure will determine whether Oracle becomes a value creator or a value destroyer.
 
-- **OpenAI + Anthropic FY26 Annualized Revenue Run Rate:** ~$115B (~$50B OpenAI + ~$65B Anthropic).
-- **OpenAI + Anthropic FY26 Compute Expense Estimate:** ~$67.9B.
-- **AWS + Azure + OCI AI-Related Infrastructure Revenue:** ~$74B (~$25B AWS + ~$37B Azure + $12B OCI).
-- **Market Alignment:** Anthropic's H1 FY26 S-1 filing showed $16.2B in operating revenue against $16.9B in operating expenses, indicating that current compute spending is tightly aligned with organic revenue rather than excessive cash burn.
+Oracle Cloud Infrastructure will largely determine Oracle's future. So, let's build out different scenarios around Oracle Cloud Infrastructure.
+
+A significant portion of Oracle's cloud compute demand is coming from AI model companies renting infrastructure to train and run (Inference) their models.
+
+AI model companies' ability to keep renting compute depends on two things:
+- **In the short term:** The availability of investor funding to support their spending.
+- **In the long term:** AI adoption and the revenue generated by AI applications.
+
+Ultimately, Oracle's future depends on whether investor-funded AI spending can transition into sustainable, customer-funded demand.
+
+### Is AI here to stay?
+It is becoming increasingly integrated into our daily lives and work in an irreversible fashion:   
+1. Traditional Internet searching and surfing → Simply ask AI a question  
+2. Traditional Coding → Give a prompt to AI Agents  
+3. The way we do shopping (product search, product comparison, product reviews)  
+4. Content creation (Text, Image, Audio, Video)
+
+As AI capabilities continue to grow, we can expect its use cases to expand over time. Therefore we can comfortably assume that AI adoption will continue to grow.
+
+The real question is whether AI adoption and monetisation will justify the enormous investment being made into building huge data centers (compute infrastructure). Or will we end up with overcapacity?
+
+### Can AI demand justify infrastructure investment (building huge data centers)?
+To quantify this let’s take 2 quantitative indicators:
+
+| Metric | Quantitative Indicator |
+| :--- | :--- |
+| **AI Demand** | AI model companies revenue |
+| **Cloud Compute Infrastructure Investment** | Cloud companies capex |
+
+**Why we choose “AI model companies revenues” as the quantitative indicator instead of “AI model companies investor funding”:**  
+- “AI model companies investor funding” → In short-term this is the better indicator of actual money spent by AI model companies to rent cloud compute. This is very speculative in nature, driven by market mood and market forces, which cannot be easily predicted.  
+- “AI model companies revenues” → In long-term this what actually supports the money spent by AI model companies to rent cloud compute. And this is relatively more predictable and recurring.
+
+Based on the latest Anthropic IPO S-1 form (for the six months ended June 30, 2026), operating revenue stood at $16.2 billion against total operating expenses of $16.9 billion. This indicates that Anthropic is burning very little cash at the operating level, meaning FY26 AI spending is robustly backed by revenue.
+
+- **Anthropic YoY Revenue Growth (FY25 → FY26):** ~600%
+- **OpenAI YoY Revenue Growth (FY25 → FY26):** ~150%
+
+Cloud GPU and server capital expenditure typically precedes revenue realization by less than six months. This time lag is a critical factor for our thesis, as it represents the window between capacity building and actual revenue recognition.
+
+While some argue that AI model companies might inflate current spending using investor funds to train new models, conservative projections suggest AI revenue could still grow by 50% to 100%. Even in a scenario with temporary overcapacity, the six-month signaling window allows cloud providers to identify demand slowdowns early, pause new capex, and let high organic AI revenue growth absorb the capacity within a year or two in the worst case.
+
+To monitor this closely, we should track whether AI revenue growth and new data center capex. A significant divergence, where AI capex vastly outpaces expected revenue growth, would be a red flag. Currently, the market does not exhibit this imbalance. Therefore, we do not foresee massive impairments from overcapacity.  
+
+**Conclusion:** In the worst case, AI cloud infrastructure impairment would be that overcapacity sits idle for 1 year.   
 
 ---
 
-## Valuation & Scenario Analysis
+## Valuation
 
-### Scenario 1: Growth Halts in FY28
-*Assumes AI model capabilities plateau and revenue growth stops in 2028.*
+So, let's do valuation to see 2 cases:  
+- **Scenario 1:** AI models intelligence stops growing. AI revenue growth halts in 2028. 
+- **Scenario 2:** AI models intelligence continues to grow. Since we cannot imagine a long-term future with high predictability, let's consider AI revenue growth to slow down in 2030. 
 
-- **WACC:** 11.10% (Terminal WACC: 8.10%)
-- **Terminal Growth:** 3.0%
-- **Terminal Value (FY28):** $704 Billion
-- **Total Present Value:** $469 Billion
-- **Present Value per Share:** **$156**
+### Scenario 1
 
-#### Projection Summary (USD Billions)
 | Metric | FY26 | FY27 | FY28 |
 | :--- | :--- | :--- | :--- |
-| **Revenue** | $67.3 | $90.0 | $130.0 |
-| **Operating Margin** | 31% | 28% | 28% |
-| **Operating Income** | $20.6 | $25.2 | $36.4 |
-| **NOPAT (1 - 0.21)** | — | $19.9 | $28.75 |
-| **Capex** | $47.7 | $90.0 | $124.0 |
-| **Depreciation** | $7.6 | $14.8 | $32.34 |
-| **Unlevered FCF** | — | -$55.3 | -$62.9 |
+| **Revenue (Billions)** | 67.3 | 90 | 130 |
+| **Op Margin** | 31% | 28% | 28% |
+| **Operating Income** | 20.6 | 25.2 | 36.4 |
+| **Op Income (1-0.21)** | — | 19.9 | 28.75 |
+| **Capex** | 47.7 | 90 | 124 |
+| **Dep** | 7.6 | 14.8 | 32.34 |
+| **UnLevered FCF** | — | -55.3 | -62.9 |
+| **WACC** | 11.10% | 11.10% | 11.10% |
 
----
+- **WACC Terminal (FY29 onwards):** Terminal Growth: 3% | Terminal WACC: 8.10%
+- **Dep Correction:** 214
+- **One Time Loss:** -114
 
-### Scenario 2: Growth Continues Through FY30
-*Assumes AI intelligence and demand continue expanding before decelerating in 2030.*
+- **Terminal Value FY28:** $704 Billion  
+- **Total PV:** $469 Billion USD  
+- **Present Value per Share:** $156
 
-- **WACC:** 11.10% (Terminal WACC: 8.10%)
-- **Terminal Growth:** 3.0%
-- **Terminal Value (FY30):** $1,238 Billion
-- **Total Present Value:** $771 Billion
-- **Present Value per Share:** **$257**
-
-#### Projection Summary (USD Billions)
+### Scenario 2
 | Metric | FY26 | FY27 | FY28 | FY29 | FY30 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Revenue** | $67.3 | $90.0 | $130.0 | $185.0 | $225.0 |
-| **Operating Margin** | 31% | 28% | 28% | 28% | 30% |
-| **Operating Income** | $20.6 | $25.2 | $36.4 | $51.8 | $67.5 |
-| **NOPAT (1 - 0.21)** | — | $19.9 | $28.75 | $40.9 | $53.3 |
-| **Capex** | $47.7 | $90.0 | $124.0 | $102.0 | $30.0 |
-| **Depreciation** | $7.6 | $14.8 | $32.34 | $54.18 | $70.0 |
-| **Unlevered FCF** | — | -$55.3 | -$62.9 | -$6.9 | $97.8 |
+| **Revenue (Billions)** | 67.3 | 90 | 130 | 185 | 225 |
+| **Op Margin** | 31% | 28% | 28% | 28% | 30% |
+| **Operating Income** | 20.6 | 25.2 | 36.4 | 51.8 | 67.5 |
+| **Op Income (1-0.21)** | — | 19.9 | 28.75 | 40.9 | 53.3 |
+| **Capex** | 47.7 | 90 | 124 | 102 | 30 |
+| **Dep** | 7.6 | 14.8 | 32.34 | 54.18 | 70 |
+| **UnLevered FCF** | — | -55.3 | -62.9 | -6.9 | 97.8 |
+| **WACC** | 11.10% | 11.10% | 11.10% | 11.10% | 11.10% |
+
+- **WACC Terminal (FY31 onwards):** Terminal Growth: 3% | Terminal WACC: 8.10%
+- **Dep Correction:** 229
+
+- **Terminal Value FY30:** $1238 Billion  
+- **Total PV:** $771 Billion USD  
+- **Present Value per Share:** $257  
 
 ---
 
